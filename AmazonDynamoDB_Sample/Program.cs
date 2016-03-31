@@ -36,7 +36,7 @@ namespace AmazonDynamoDB_Sample
 
         public static void Main(string[] args)
         {
-            
+            //v2
             //asdasReposetory<ZPage>.Delete("ranasafasdfas");
 
             //var item = Reposetory<XPage>.Load("/page2", 1);
