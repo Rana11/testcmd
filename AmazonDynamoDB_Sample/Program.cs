@@ -36,6 +36,7 @@ namespace AmazonDynamoDB_Sample
 
         public static void Main(string[] args)
         {
+            //master changes
             //v2
             //asdasReposetory<ZPage>.Delete("ranasafasdfas");
 
